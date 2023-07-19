@@ -1,4 +1,4 @@
-
+![logo](https://github.com/itsmayanksingh/itsmayanksingh/blob/main/Hey%20!%20I%20am%20Mayank%20(2).png)
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
