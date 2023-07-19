@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science||Flutter**
 
-- 📫 How to reach me **itsmayanksingh1.@gmail.com**
+- 📫 How to reach me **itsmayanksingh1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
